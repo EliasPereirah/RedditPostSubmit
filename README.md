@@ -3,9 +3,9 @@ Essa é uma classe PHP simples e eficiente para facilitar o envio de novos posts
 
 Ela fornece uma interface intuitiva e fácil de usar para interagir com a API do Reddit e postar conteúdo diretamente de sua aplicação.
 
-Nesse diretório você encontra uma arquivo SQL o qual pode ser utilizado como modelo para guardar o token gerado pela API.
+Nesse diretório você encontra um [arquivo SQL](https://raw.githubusercontent.com/EliasPereirah/RedditPostSubmit/main/rd_token.sql) o qual pode ser utilizado como modelo para guardar o token gerado pela API.
 
-Isso porque para fazer as postagens no Reddit além de todos os dados fornecidos no arquivo confi.php você irá precisar de um token que tem validade de 24 horas.
+Isso porque para fazer as postagens no Reddit além de todos os dados fornecidos no arquivo config.php você irá precisar de um token que tem validade de 24 horas.
 
 Essa classe vai gerar o token automaticamente.
 
