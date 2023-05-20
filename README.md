@@ -16,7 +16,7 @@ Essa classe vai gerar o token automaticamente.
 Armazenando os dados em um banco de dados como está implementado aqui irá renvoar o token automaticamente depois de 24 assim que uma nova requisão de postagem for realizada.
 
 
-Depois de criar seu app aqui
+Depois de [criar seu app aqui https://www.reddit.com/prefs/apps](https://www.reddit.com/prefs/apps)
 
 E inserir as informações no arquivo config, você está pronto para usar.
 
