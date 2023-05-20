@@ -18,7 +18,7 @@ E inserir as informações no arquivo config, você está pronto para usar.
 
 # Exemplo de uso
 
-´´´php
+```php
 <?php
 require __DIR__."/config.php";
 require __DIR__."/App/Database.php";
@@ -36,4 +36,4 @@ if($url){
 }else{
     echo "Não foi possível obter a URL, é possível que o post não tenha sido feito";
 }
-´´´
+```
